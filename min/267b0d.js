@@ -5918,7 +5918,7 @@ var graph=function(n){
 };
 
 app.variables={};
-app.version="8c4e8fd";
+app.version="cc09c52";
 app.add=function(n){
 	graphs.push(new graph(n));
     app.ui.refresh();
